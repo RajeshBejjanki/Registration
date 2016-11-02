@@ -7,7 +7,7 @@
             , "code": "AF"
             }
         , {
-            "name": "Åland Islands"
+            "name": "Åland islands"
             , "code": "AX"
             }
         , {
